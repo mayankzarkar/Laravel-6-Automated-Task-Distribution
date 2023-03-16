@@ -1,0 +1,28 @@
+{
+    "name": "task-management/service",
+    "description": "task-management service",
+    "keywords": [
+        "laravel",
+        "laravel v6",
+        "php"
+    ],
+    "type": "library",
+    "require": {
+        "php": "^7.1",
+        "illuminate/support": "6.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TaskManagement\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TaskManagement\\Providers\\AppServiceProvider"
+            ]
+        }
+    }
+}
