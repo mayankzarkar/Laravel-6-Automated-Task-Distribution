@@ -1,4 +1,4 @@
-# Automated Pipeline Task Management
+# Automated-Task-Distribution
 
 About this module:
 This module can handle all the manual work of hiring process, like filtering the candidate, take a required action for a specific candidate, send a reminder to complete the process, auto move to next stage, send offer letter, etc.
